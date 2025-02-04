@@ -6,9 +6,8 @@ public class Main {
         Scanner teclado = new Scanner(System.in);
 
         int A, B, PROD;
-        System.out.println("Digite o valor de A: ");
+
         A = teclado.nextInt();
-        System.out.println("Digite o valor de B: ");
         B = teclado.nextInt();
         PROD = A * B;
 
